@@ -19,17 +19,40 @@
 
 ## 🛠️ Tech Stack  
 
+<div align="center">
+
 ### 👨‍💻 Programming & Databases  
-💻 **Python** | 🗄️ **SQL** | 🐬 **MySQL** | 🐘 **PostgreSQL**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
 
 ### 🤖 Data Science & Machine Learning  
-📊 **Pandas** | 🔢 **NumPy** | 🎯 **Scikit-learn** | 🔶 **TensorFlow** | 🔷 **MLflow**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
 
-### 📈 Data Visualization & BI  
-📊 **Power BI** | 📉 **Tableau** | 📗 **Excel (Pivot, DAX, Power Query)**  
+---
+
+### 📊 Data Visualization & BI  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+---
 
 ### ⚙️ Tools & Platforms  
-📓 **Jupyter Notebook** | ⚡ **Google Colab** | 🌐 **Flask** | 🐙 **Git/GitHub** | 🖥️ **MS Office**  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+</div>
 
 ## 🚀 Featured Projects  
 
