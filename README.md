@@ -18,88 +18,37 @@
 ---
 ## 🛠️ Tech Stack  
 
-<div align="center">
+### 👨‍💻 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
 
-<table>
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-  <sub><b>Python</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-  <sub><b>SQL</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-  <sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-  <sub><b>PostgreSQL</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
-  <sub><b>Pandas</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
-  <sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>
-  <sub><b>Scikit-learn</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
-  <sub><b>TensorFlow</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br>
-  <sub><b>Power BI</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /><br>
-  <sub><b>Tableau</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br>
-  <sub><b>Excel</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /><br>
-  <sub><b>MLflow</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br>
-  <sub><b>Jupyter</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" /><br>
-  <sub><b>Colab</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /><br>
-  <sub><b>Flask</b></sub>
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
-  <sub><b>GitHub</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 ---
+
+### 🤖 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)  
+
+---
+
+### 📊 Data Visualization & BI  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
+
+---
+
+### ⚙️ Tools & Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
+
 
 ### ⚙️ Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
