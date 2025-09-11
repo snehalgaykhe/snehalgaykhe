@@ -13,7 +13,7 @@
 🤖 Exploring **NLP, AI Chatbots, Deep Learning & MLOps**  
 💡 Strong in **EDA, Data Cleaning, Visualization & Data Storytelling**  
 
-💬 *“I believe data is the new oil — and my passion lies in refining it into actionable insights that create real-world impact.”*  
+💬 *“Finding insights where others see numbers.”*  
 
 ---
 
