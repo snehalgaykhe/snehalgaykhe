@@ -1,6 +1,5 @@
 <!-- Custom Banner -->
-![Snehal Gaykhe Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Snehal%20Gaykhe%20|%20Data%20Analyst%20&%20Scientist%20|%20Turning%20Raw%20Data%20into%20Meaningful%20Stories.&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
+![Snehal Gaykhe Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Snehal%20Gaykhe%20|%20Data%20Analyst%20&%20Scientist&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # Hi, I'm Snehal Gaykhe 👋  
 ✨ *Data Analyst | Data Scientist | Python • SQL • Power BI | Business & AI Enthusiast*  
@@ -14,7 +13,7 @@
 🤖 Exploring **NLP, AI Chatbots, Deep Learning & MLOps**  
 💡 Strong in **EDA, Data Cleaning, Visualization & Data Storytelling**  
 
-💬 *“I believe data is the new oil — and my passion lies in refining it into actionable insights that create real-world impact.”*  
+💬 *“Turning raw data into meaningful stories.”*  
 
 ---
 
