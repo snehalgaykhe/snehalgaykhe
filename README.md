@@ -34,7 +34,7 @@
 
 ### 🏦 Credit Card Transactions Analysis  
 Built an ML pipeline for **fraud detection** using Python & MLflow.  
-![Credit Card Analysis](https://raw.githubusercontent.com/snehalgaykhe/Credit-card-transaction/main/screenshot.png)  
+![Credit Card Analysis](<img width="1920" height="1080" alt="Screenshot 2025-09-02 121818" src="https://github.com/user-attachments/assets/1786156a-4d7b-4ecd-a9cf-f7a05760554a" />)  
 🔗 [View Project](https://github.com/snehalgaykhe/Credit-card-transaction/tree/main)  
 
 ---
