@@ -1,8 +1,10 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Snehal%20Gaykhe%20%7C%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20AI%20Enthusiast&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <div align="center">
 
 # Hi, I'm Snehal Gaykhe 👋  
+
+✨ Data Analyst | Data Scientist | Python • SQL • Power BI | Business & AI Enthusiast  
 
 💡 *“Turning raw data into meaningful insights.”*  
 
