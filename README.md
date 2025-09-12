@@ -1,6 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Enthusiast&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Viz" width="250" src="https://media.giphy.com/media/3o6nV5tH1I3jU3h0Io/giphy.gif">
+
 
 
 <div align="center">
