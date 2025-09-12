@@ -49,7 +49,8 @@ Developed a **real-time chatbot** with **NLP + Speech Recognition** for interact
 
 ### 🧠 MRI Brain Scan Dashboard (Power BI)  
 Healthcare dashboard analyzing patient data & performance metrics.  
-![MRI Dashboard](https://raw.githubusercontent.com/snehalgaykhe/PowerBI-BrainScan/main/screenshot.png)  
+<img width="1920" height="1080" alt="Screenshot 2025-08-29 014629" src="https://github.com/user-attachments/assets/dda881d3-3ec3-4551-8932-d6c142c8283a" />
+ 
 🔗 [View Project](https://github.com/snehalgaykhe/PowerBI-BrainScan)  
 
 ---
