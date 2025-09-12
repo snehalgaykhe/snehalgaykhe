@@ -33,7 +33,7 @@
 
 ### 🏦 Credit Card Transactions Analysis  
 Built an ML pipeline for **fraud detection** using Python & MLflow.  
-![Credit Card Analysis]<img width="1920" height="1080" alt="Screenshot 2025-09-02 121831" src="https://github.com/user-attachments/assets/b82fc410-2de2-4bb9-953f-55ede86c42ee" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 121831" src="https://github.com/user-attachments/assets/b82fc410-2de2-4bb9-953f-55ede86c42ee" />
 
 🔗 [View Project](https://github.com/snehalgaykhe/Credit-card-transaction/tree/main)  
 
@@ -41,7 +41,8 @@ Built an ML pipeline for **fraud detection** using Python & MLflow.
 
 ### 🤖 Interactive AI & Voice Chatbot  
 Developed a **real-time chatbot** with **NLP + Speech Recognition** for interactive conversations.  
-![AI Chatbot](https://raw.githubusercontent.com/snehalgaykhe/Interactive-AI-chatbot-and-voice-chatbot/main/screenshot.png)  
+<img width="1919" height="1079" alt="Screenshot 2025-08-28 121310" src="https://github.com/user-attachments/assets/8716eee2-aa66-4578-87f1-c6980970fbf2" />
+ 
 🔗 [View Project](https://github.com/snehalgaykhe/Interactive-AI-chatbot-and-voice-chatbot)  
 
 ---
