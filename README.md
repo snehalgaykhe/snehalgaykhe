@@ -47,17 +47,20 @@ Developed a **real-time chatbot** with **NLP + Speech Recognition** for interact
 
 ---
 
+
+### 🛒 Zepto Sales Analysis Dashboard (Power BI)  
+Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, category trends, and forecasting to support business decisions.  
+<img width="1920" height="1080" alt="Screenshot 2025-08-25 171151" src="https://github.com/user-attachments/assets/a37eb433-e667-4ce6-a2dc-39a97398cb08" />
+ 
+🔗 [View Project](https://github.com/snehalgaykhe/Zepto-Sales-Analysis-Dashboard)  
+
+---
+
 ### 🧠 MRI Brain Scan Dashboard (Power BI)  
 Healthcare dashboard analyzing patient data & performance metrics.  
 <img width="1920" height="1080" alt="Screenshot 2025-08-29 014629" src="https://github.com/user-attachments/assets/dda881d3-3ec3-4551-8932-d6c142c8283a" />
  
 🔗 [View Project](https://github.com/snehalgaykhe/PowerBI-BrainScan)  
-
----
-
-### 📊 Sales Analysis Dashboard (Power BI)  
-Created **sales & forecasting dashboard** to support business decisions.  
-![Sales Dashboard](https://raw.githubusercontent.com/snehalgaykhe/PowerBI-BrainScan/main/sales_dashboard.png)  
 
 ---
 
