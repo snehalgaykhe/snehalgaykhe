@@ -82,7 +82,7 @@ Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, ca
 ## 📫 Let’s Connect  
 ✉️ **Email**: snehalgaykhe003@gmail.com  
 💼 **LinkedIn**: [Snehal Gaykhe](https://www.linkedin.com/in/snehal-gaykhe-740b64270)  
-📂 **Resume**: [View Here](https://drive.google.com/file/d/1NXSweXTUzEluzjvAV2pOvGXUlFwDh9QX/view?usp=sharing)  
+📂 **Resume**: [View Here](https://drive.google.com/file/d/1AauYwoo5BUnR9GahTiHNYk1jtQMLpUUq/view?usp=sharing)  
 📁 **GitHub Projects**: [Explore Here](https://github.com/snehalgaykhe)  
 
 ---
