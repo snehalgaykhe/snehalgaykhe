@@ -43,16 +43,7 @@ Built an ML pipeline for **fraud detection** using Python & MLflow.
 Developed a **real-time chatbot** with **NLP + Speech Recognition** for interactive conversations.  
 <img width="1919" height="1079" alt="Screenshot 2025-08-28 121310" src="https://github.com/user-attachments/assets/8716eee2-aa66-4578-87f1-c6980970fbf2" />
  
-🔗 [View Project](https://github.com/snehalgaykhe/Interactive-AI-chatbot-and-voice-chatbot)  
-
----
-
-
-### 🛒 Zepto Sales Analysis Dashboard (Power BI)  
-Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, category trends, and forecasting to support business decisions.  
-<img width="1920" height="1080" alt="Screenshot 2025-08-25 171151" src="https://github.com/user-attachments/assets/a37eb433-e667-4ce6-a2dc-39a97398cb08" />
- 
-🔗 [View Project](https://github.com/snehalgaykhe/Zepto-Sales-Analysis-Dashboard)  
+🔗 [View Project](https://github.com/snehalgaykhe/Interactive-AI-chatbot-and-voice-chatbot)   
 
 ---
 
@@ -61,6 +52,14 @@ Healthcare dashboard analyzing patient data & performance metrics.
 <img width="1920" height="1080" alt="Screenshot 2025-08-29 014629" src="https://github.com/user-attachments/assets/dda881d3-3ec3-4551-8932-d6c142c8283a" />
  
 🔗 [View Project](https://github.com/snehalgaykhe/PowerBI-BrainScan)  
+
+---
+
+### 🛒 Zepto Sales Analysis Dashboard (Power BI)  
+Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, category trends, and forecasting to support business decisions.  
+<img width="1920" height="1080" alt="Screenshot 2025-08-25 171151" src="https://github.com/user-attachments/assets/a37eb433-e667-4ce6-a2dc-39a97398cb08" />
+ 
+🔗 [View Project](https://github.com/snehalgaykhe/Zepto-Sales-Analysis-Dashboard) 
 
 ---
 
