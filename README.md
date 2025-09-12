@@ -6,7 +6,7 @@
 
 ✨ Data Analyst | Data Scientist | Python • SQL • Power BI | Business & AI Enthusiast  
 
-💡 *“Turning raw data into meaningful insights.”*  
+💬 *“Finding insights where others see numbers.”*  
 
 </div>
 
@@ -22,7 +22,7 @@
 🤖 Exploring **NLP, AI Chatbots, Deep Learning & MLOps**  
 💡 Strong in **EDA, Data Cleaning, Visualization & Data Storytelling**  
 
-💬 *“Finding insights where others see numbers.”*  
+ 
 
 ---
 
