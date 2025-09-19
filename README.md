@@ -16,7 +16,7 @@
 ---
 
 ## 🌟 About Me  
-🎓 B.E. Computer Engineering | PVG’s COE Nashik (CGPA 8.18)  
+🎓 B.E. IT Engineering | PVG’s COE Nashik (CGPA 8.18)  
 🔍 Passionate about **Data Science, Machine Learning & Business Analytics**  
 🐍 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
 🤖 Exploring **NLP, AI Chatbots, Deep Learning & MLOps**  
