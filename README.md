@@ -44,7 +44,7 @@
 
 Built an AI-powered Telegram chatbot using n8n workflow automation, OpenRouter LLM API, and Wikipedia integration for real-time intelligent responses.
 
-<src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d54bd6a-7d8e-49d8-92b0-15eeb655a5a5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d54bd6a-7d8e-49d8-92b0-15eeb655a5a5" />
 
 
 🔗 [View Project](https://github.com/snehalgaykhe/Telegram-AI-ChatBot-n8n-OpenRouter-)
@@ -58,13 +58,6 @@ Built an ML pipeline for **fraud detection** using Python & MLflow.
 
 ---
 
-### 🤖 Interactive AI & Voice Chatbot  
-Developed a **real-time chatbot** with **NLP + Speech Recognition** for interactive conversations.  
-<img width="1919" height="1079" alt="Screenshot 2025-08-28 121310" src="https://github.com/user-attachments/assets/8716eee2-aa66-4578-87f1-c6980970fbf2" />
- 
-🔗 [View Project](https://github.com/snehalgaykhe/Interactive-AI-chatbot-and-voice-chatbot)   
-
----
 
 ### 🧠 MRI Brain Scan Dashboard (Power BI)  
 Healthcare dashboard analyzing patient data & performance metrics.  
