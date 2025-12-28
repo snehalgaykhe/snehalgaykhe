@@ -44,7 +44,8 @@
 
 Built an AI-powered Telegram chatbot using n8n workflow automation, OpenRouter LLM API, and Wikipedia integration for real-time intelligent responses.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d54bd6a-7d8e-49d8-92b0-15eeb655a5a5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0af03796-50db-4b3f-b051-92e224781a8e" />
+
 
 
 🔗 [View Project](https://github.com/snehalgaykhe/Telegram-AI-ChatBot-n8n-OpenRouter-)
