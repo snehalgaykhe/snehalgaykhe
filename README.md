@@ -46,6 +46,8 @@ Built an AI-powered Telegram chatbot using n8n workflow automation, OpenRouter L
 
 <img width="1920" height="1080" alt="Telegram AI ChatBot Workflow" src="PASTE_YOUR_SCREENSHOT_IMAGE_URL_HERE" />
 
+🔗 [View Project](https://github.com/snehalgaykhe/Telegram-AI-ChatBot-n8n-OpenRouter-)
+
 
 ### 🏦 Credit Card Transactions Analysis  
 Built an ML pipeline for **fraud detection** using Python & MLflow.  
