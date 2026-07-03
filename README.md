@@ -6,12 +6,13 @@
 <div align="center">
 
 # Hi, I'm Snehal Gaykhe 👋  
-I'm a Data Analytics professional passionate about transforming raw data into actionable insights through analytics, machine learning, and business intelligence.
+I'm a Data Analytics professional with hands-on experience in Python, SQL, Power BI, Tableau, and Machine Learning. I enjoy transforming complex datasets into actionable insights, building interactive dashboards, and developing predictive models that support data-driven decision-making.
 
-💼 Currently working as a Data Processing Executive
+💼 Currently working as Data Processing Executive
+
 📊 Former Data Science & Analytics Intern
-🐍 Skilled in Python, SQL, Power BI, Tableau & Machine Learning
-🚀 Continuously learning MLOps, Cloud, and Advanced Analytics
+
+🚀 Continuously learning MLOps, Cloud & Advanced Analytics
 
 
 💬 *“Finding insights where others see numbers.”*  
