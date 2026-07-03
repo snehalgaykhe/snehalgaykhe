@@ -103,8 +103,8 @@ Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, ca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehalgaykhe&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalgaykhe&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehalgaykhe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalgaykhe&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,6 +114,8 @@ Analyzed **Zepto’s quick commerce sales & delivery performance** with KPIs, ca
 <img src="https://streak-stats.demolab.com?user=snehalgaykhe&theme=tokyonight&hide_border=true"/>
 </p>
 ---
+
+
 ## 🏆 Highlights & Achievements  
 - 🎓 Completed **Google IT Automation with Python** certification  
 - 🏢 SQL Intern at **Celebal Technologies** (Database optimization & query building)  
