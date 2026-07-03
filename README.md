@@ -12,19 +12,27 @@ Data Analytics professional with hands-on experience in Python, SQL, Power BI, T
 💬 *“Turning data into decisions through analytics and machine learning.”*  
 
 </div>
-
----
-
-## 🌟 About Me  
-🎓 B.E. in Information Technology (CGPA: 8.18)
+## 🚀 Current Focus
 
 💼 Data Processing Executive at Pacific Workforce Pvt. Ltd.
 
-📊 Former Data Science & Analytics Intern at Hisan Labs
+📊 Building interactive dashboards and analytics solutions
 
-📈 Passionate about Data Analytics, Machine Learning & Business Intelligence
+🤖 Exploring Machine Learning & MLOps
 
-🌱 Currently learning MLOps, Cloud & Advanced Analytics
+☁️ Learning AWS for Data Analytics
+
+---
+
+## 🌟 About Me
+
+🎓 B.E. in Information Technology (CGPA: 8.18)
+
+📈 Passionate about Data Analytics, Business Intelligence & Machine Learning
+
+💡 Strong foundation in Python, SQL, Power BI, Tableau, and Data Visualization
+
+📚 Enjoy solving real-world business problems with data
  
 
 ---
