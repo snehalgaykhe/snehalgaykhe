@@ -4,7 +4,7 @@
 
 # Hi, I'm Snehal Gaykhe 👋  
 
-✨ Data Analyst | Data Scientist | Python • SQL • Power BI | Business & AI Enthusiast  
+✨ Data Analyst | Machine Learning | Python | SQL | Power BI  
 
 💬 *“Finding insights where others see numbers.”*  
 
