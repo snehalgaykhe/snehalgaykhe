@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-# Hi, I'm Snehal Gaykhe 👋  
+#  
 I'm a Data Analytics professional with hands-on experience in Python, SQL, Power BI, Tableau, and Machine Learning. I enjoy transforming complex datasets into actionable insights, building interactive dashboards, and developing predictive models that support data-driven decision-making.
 
 💼 Currently working as Data Processing Executive
