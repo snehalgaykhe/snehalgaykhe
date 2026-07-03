@@ -15,7 +15,7 @@ I'm a Data Analytics professional with hands-on experience in Python, SQL, Power
 🚀 Continuously learning MLOps, Cloud & Advanced Analytics
 
 
-💬 *“Finding insights where others see numbers.”*  
+💬 *“Turning data into decisions through analytics and machine learning.”*  
 
 </div>
 
@@ -25,12 +25,15 @@ I'm a Data Analytics professional with hands-on experience in Python, SQL, Power
 ---
 
 ## 🌟 About Me  
-🎓 B.E. IT Engineering | PVG’s COE Nashik (CGPA 8.18)  
-🔍 Passionate about **Data Science, Machine Learning & Business Analytics**  
-🐍 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
-🤖 Exploring **NLP, AI Chatbots, Deep Learning & MLOps**  
-💡 Strong in **EDA, Data Cleaning, Visualization & Data Storytelling**  
+🎓 B.E. in Information Technology (CGPA: 8.18)
 
+💼 Data Processing Executive at Pacific Workforce Pvt. Ltd.
+
+📊 Former Data Science & Analytics Intern at Hisan Labs
+
+📈 Passionate about Data Analytics, Machine Learning & Business Intelligence
+
+🌱 Currently learning MLOps, Cloud & Advanced Analytics
  
 
 ---
