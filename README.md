@@ -13,7 +13,6 @@ I'm a Data Analytics professional passionate about transforming raw data into ac
 🐍 Skilled in Python, SQL, Power BI, Tableau & Machine Learning
 🚀 Continuously learning MLOps, Cloud, and Advanced Analytics
 
-✨ Data Analyst | Machine Learning | Python | SQL | Power BI  
 
 💬 *“Finding insights where others see numbers.”*  
 
