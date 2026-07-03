@@ -1,8 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:9370DB&height=180&section=header&text=Data%20Analyst%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Snehal+Gaykhe+%F0%9F%91%8B;Data+Analytics+Professional;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Snehal+Gaykhe+%F0%9F%91%8B;Data+Analytics+Professional;Turning+Data+into+Actionable+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
-
 <div align="center">
 
 # Hi, I'm Snehal Gaykhe 👋  
